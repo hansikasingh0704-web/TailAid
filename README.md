@@ -30,21 +30,22 @@ MongoDB
 
 PNPM
 
-                SETUP 
+
+SETUP 
 
 --Clone the repository--
 
-git clone https://github.com/hansikasingh0704-web/TailAid.git
+     git clone https://github.com/hansikasingh0704-web/TailAid.git
 
 
 --Go into the project folder--
 
-cd TailAid
+      cd TailAid
 
 
 --Install dependencies--
 
-pnpm install
+     pnpm install
 
 
 --Create an environment file .env.local--
