@@ -1,0 +1,5 @@
+@import 'tailwindcss';
+
+@theme inline {
+  --font-sans: 'system-ui', 'Segoe UI', 'Helvetica Neue', sans-serif;
+}
