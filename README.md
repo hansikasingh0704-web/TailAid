@@ -50,9 +50,9 @@ SETUP
 
 --Create an environment file .env.local--
 
-MONGODB_URI=your_connection_string
+    MONGODB_URI=your_connection_string
 
 
 --Start the development server--
 
-pnpm dev
+    pnpm dev
