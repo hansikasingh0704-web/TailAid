@@ -1,24 +1,24 @@
-🚨 TailAid
+TailAid
 
 TailAid is a Next.js emergency response platform that helps users, hospitals, and rescue teams manage alerts, track locations, and coordinate actions in real time.
 
-⭐ Features
+Features
 
-Create & manage emergency alerts
+Create and manage emergency alerts
 
-User, Hospital & Rescue dashboards
+User, Hospital, and Rescue dashboards
 
 Real-time status updates
 
-Nearby hospital/rescue tracking
+Nearby facility tracking
 
-Notes & alert history
+Notes and alert history
 
 MongoDB-powered API routes
 
-Clean UI with Tailwind + ShadCN
+Tailwind + ShadCN UI components
 
-🛠 Tech Stack
+Tech Stack
 
 Next.js (App Router)
 
@@ -30,7 +30,7 @@ MongoDB
 
 PNPM
 
-🚀 Setup
+Setup
 git clone https://github.com/hansikasingh0704-web/TailAid.git
 cd TailAid
 pnpm install
@@ -41,6 +41,6 @@ Create .env.local:
 MONGODB_URI=your_connection_string
 
 
-Start the server:
+Run the development server:
 
 pnpm dev
